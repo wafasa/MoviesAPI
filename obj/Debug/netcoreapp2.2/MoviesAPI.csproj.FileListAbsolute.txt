@@ -1,0 +1,14 @@
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/bin/Debug/netcoreapp2.2/MoviesAPI.deps.json
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/bin/Debug/netcoreapp2.2/MoviesAPI.runtimeconfig.json
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/bin/Debug/netcoreapp2.2/MoviesAPI.runtimeconfig.dev.json
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/bin/Debug/netcoreapp2.2/MoviesAPI.dll
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/bin/Debug/netcoreapp2.2/MoviesAPI.pdb
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.csprojAssemblyReference.cache
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.csproj.CoreCompileInputs.cache
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.RazorAssemblyInfo.cache
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.RazorAssemblyInfo.cs
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.AssemblyInfoInputs.cache
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.AssemblyInfo.cs
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.RazorTargetAssemblyInfo.cache
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.dll
+/Volumes/DATA2/CODE/DOTNET/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.pdb
